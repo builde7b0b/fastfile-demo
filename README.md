@@ -1,39 +1,44 @@
 # fastfile-demo
 demo / proposal repo
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Proposal 
+### My Approach / Outline: 
+Taking a systematic approach involving several steps including strucuring the project, content inventory etc. 
+We need to identify and document ALL content elements(Text, images, links etc.) and create a structured format.
+We also need to ensure our project structure is clean and organized.
+And we need to organize content in a centralized format I'm assuming.
 
-## Getting Started
+#### Outline of Steps to Execution: 
+1. Analyze the Current Website (Components) 
+2. Set Up Next.js Project with TailwindCSS
+3. Create Project Structure
+4. Create and Configure Components
+5. Organize Content in /data Directory
+6. Update Pages
+7. Deployment with AWS Amplify
 
-First, run the development server:
+### Availability / Timeframe confirmation: 
+No issues.
+### Examples of similar projects: 
+I think this repo setup and initial project start should satisfy that inquiry.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Developer Notes:
+I've already started with the Project structure and Setup as well as the Component Development which are key parts of this effort. I look forward to working together in business in bringing you the desired solution and completing this effort.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
